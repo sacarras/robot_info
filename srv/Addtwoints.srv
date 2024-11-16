@@ -1,0 +1,9 @@
+# Request srv
+int64 a 
+int64 b
+---
+# Response srv
+int64 sum
+
+
+# Always the srv are with the first letter in Capital letter
